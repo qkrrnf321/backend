@@ -54,7 +54,7 @@ src 주소 = <a href="https://github.com/qkrrnf321/backend/tree/7b837fdb8376cac0
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
-  https://github.com/WOONG-riginal/test/assets/136036366/9bd22c4c-36c9-4cce-a33f-7959e88d4b8d
+ https://github.com/qkrrnf321/backend/assets/137736900/4cc050ba-13ad-4702-a8bc-5a18d0f71ae2
 
   <h3>E. 매장찾기</h3>
 
