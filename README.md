@@ -37,10 +37,7 @@
 [Work-Flow.txt](https://github.com/WOONG-riginal/test/files/11876975/Work-Flow.txt)
 
 
-<h2>#5. 소스코드</h2>
-src 주소 = <a href="https://github.com/qkrrnf321/backend/tree/7b837fdb8376cac0b48c797fc5f09fc53c969f5f/new_bbq">https://github.com/qkrrnf321/backend/tree/7b837fdb8376cac0b48c797fc5f09fc53c969f5f/new_bbq</a>
-
-<h2>#6. 프로젝트 시연</h2>
+<h2>#5. 프로젝트 시연</h2>
 
   <h3>A. 회원가입 및 온라인 주문</h3>
 
