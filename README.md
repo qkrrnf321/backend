@@ -14,7 +14,9 @@
 
 <h2>#2. DB 구성</h2>
 
-[DB구성.txt](https://github.com/WOONG-riginal/test/files/11876976/DB.txt)
+<img></img>
+https://github.com/qkrrnf321/backend/assets/137736900/557d1b5f-a6fe-4c5d-9c22-014579de9d78
+
 
 
 <h2>#3. 구성</h2>
