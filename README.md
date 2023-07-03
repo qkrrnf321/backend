@@ -41,27 +41,28 @@
 
   <h3>A. 회원가입 및 온라인 주문</h3>
 
- 
+ https://github.com/qkrrnf321/backend/assets/137736900/e6ac1604-189f-4e57-86d4-37b70a96f3ba
 
   <h3>B. 게시판 작성 및 회원정보 수정</h3>
 
-  
+  https://github.com/qkrrnf321/backend/assets/137736900/f378b8a5-d071-4db4-bbea-dabcc5904508
 
   <h3>C. 게시판 답변 확인하기</h3>
 
-
+https://github.com/qkrrnf321/backend/assets/137736900/90b500e6-a493-405a-9ebc-cd1f6309db08
 
   <h3>D. 서브 및 콘텐츠 메뉴</h3>
 
-
+https://github.com/qkrrnf321/backend/assets/137736900/79d5840a-d71a-47e9-8965-aa2ea502187a
 
   <h3>E. 매장찾기</h3>
 
-
+https://github.com/qkrrnf321/backend/assets/137736900/6a8799b1-651c-441b-9b35-b89b3751a4e0
 
   <h3>F. 관리자 로그인 및 전용 페이지</h3>
 
  
-  <h3>G.매장찾기</h3>
+https://github.com/qkrrnf321/backend/assets/137736900/d961a2b6-dc94-4fbd-bd52-a55472f31e5a
+
 
 
