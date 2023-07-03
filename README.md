@@ -31,7 +31,7 @@
 
 <h2>#4. Work-Flow</h2>
 
-![image](https://github.com/qkrrnf321/backend/assets/137736900/aa619e81-e3fa-4875-98cf-b78f45a84a15)
+![image](https://github.com/qkrrnf321/backend/assets/137736900/b9d1bc50-4f24-4220-9166-b4a5f202abe2)
 
 
 <h2>#5. 프로젝트 시연</h2>
