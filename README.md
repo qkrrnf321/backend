@@ -14,10 +14,7 @@
 
 <h2>#2. DB 구성</h2>
 
-![image](https://github.com/qkrrnf321/backend/assets/137736900/f40ddd66-14b0-4062-a595-7cb700de7b7c)
-
-
-
+![image](https://github.com/qkrrnf321/backend/assets/137736900/d29f3b08-c9e0-4397-acbb-2e0a1a71746e)
 
 <h2>#3. 구성</h2>
 
@@ -34,7 +31,7 @@
 
 <h2>#4. Work-Flow</h2>
 
-[Work-Flow.txt](https://github.com/WOONG-riginal/test/files/11876975/Work-Flow.txt)
+![image](https://github.com/qkrrnf321/backend/assets/137736900/b9dfffd4-4b16-4fcc-8d05-ca5046a93595)
 
 
 <h2>#5. 프로젝트 시연</h2>
